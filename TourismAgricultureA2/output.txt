@@ -1,0 +1,94 @@
+===============================================
+ TOURISM AND AGRICULTURE MANAGEMENT SYSTEM
+===============================================
+1. Single Inheritance (Tourism)
+2. Multilevel Inheritance (Tourism)
+3. Hierarchical Inheritance (Tourism)
+4. Multiple Inheritance using Interfaces (Agriculture)
+5. Hybrid Inheritance (Agriculture)
+0. Exit
+-----------------------------------------------
+Enter your choice: 
+--- SINGLE INHERITANCE ---
+Tourism service: helping visitors plan a safe, enjoyable trip.
+Tour guide: explaining local history and leading a heritage walk.
+
+===============================================
+ TOURISM AND AGRICULTURE MANAGEMENT SYSTEM
+===============================================
+1. Single Inheritance (Tourism)
+2. Multilevel Inheritance (Tourism)
+3. Hierarchical Inheritance (Tourism)
+4. Multiple Inheritance using Interfaces (Agriculture)
+5. Hybrid Inheritance (Agriculture)
+0. Exit
+-----------------------------------------------
+Enter your choice: 
+--- MULTILEVEL INHERITANCE ---
+Tourism service: helping visitors plan a safe, enjoyable trip.
+Travel agency: arranging transport, tickets and itineraries.
+Adventure tour: offering a guided trek with safety equipment.
+
+===============================================
+ TOURISM AND AGRICULTURE MANAGEMENT SYSTEM
+===============================================
+1. Single Inheritance (Tourism)
+2. Multilevel Inheritance (Tourism)
+3. Hierarchical Inheritance (Tourism)
+4. Multiple Inheritance using Interfaces (Agriculture)
+5. Hybrid Inheritance (Agriculture)
+0. Exit
+-----------------------------------------------
+Enter your choice: 
+--- HIERARCHICAL INHERITANCE ---
+Tourism service: helping visitors plan a safe, enjoyable trip.
+Tour guide: explaining local history and leading a heritage walk.
+Tourism service: helping visitors plan a safe, enjoyable trip.
+Hotel service: booking an eco-friendly room for tourists.
+
+===============================================
+ TOURISM AND AGRICULTURE MANAGEMENT SYSTEM
+===============================================
+1. Single Inheritance (Tourism)
+2. Multilevel Inheritance (Tourism)
+3. Hierarchical Inheritance (Tourism)
+4. Multiple Inheritance using Interfaces (Agriculture)
+5. Hybrid Inheritance (Agriculture)
+0. Exit
+-----------------------------------------------
+Enter your choice: 
+--- MULTIPLE INHERITANCE USING INTERFACES ---
+Crop management: planning seasonal vegetables and checking crop health.
+Sustainable farming: using compost, crop rotation and water conservation.
+Produce sales: supplying fresh organic vegetables to local markets.
+
+===============================================
+ TOURISM AND AGRICULTURE MANAGEMENT SYSTEM
+===============================================
+1. Single Inheritance (Tourism)
+2. Multilevel Inheritance (Tourism)
+3. Hierarchical Inheritance (Tourism)
+4. Multiple Inheritance using Interfaces (Agriculture)
+5. Hybrid Inheritance (Agriculture)
+0. Exit
+-----------------------------------------------
+Enter your choice: 
+--- HYBRID INHERITANCE ---
+Farm: a small farm growing vegetables for the local community.
+Crop management: scheduling sowing, irrigation and harvesting.
+Sustainable farming: composting and drip irrigation reduce resource use.
+Smart farm: soil sensors monitor moisture before irrigation.
+
+===============================================
+ TOURISM AND AGRICULTURE MANAGEMENT SYSTEM
+===============================================
+1. Single Inheritance (Tourism)
+2. Multilevel Inheritance (Tourism)
+3. Hierarchical Inheritance (Tourism)
+4. Multiple Inheritance using Interfaces (Agriculture)
+5. Hybrid Inheritance (Agriculture)
+0. Exit
+-----------------------------------------------
+Enter your choice: 
+Thank you for using the system!
+
